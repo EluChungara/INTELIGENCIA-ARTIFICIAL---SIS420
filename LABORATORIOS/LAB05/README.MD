@@ -7,7 +7,7 @@
 
 ##  Enlaces del Proyecto
 
-* **Cuadernillo en Google Colab:** [Abrir Cuadernillo Colab](https://colab.research.google.com/drive/1btRsUkeW5GOmnWE-hp0wX7QvDlHEKqW0#scrollTo=qF7WjmsiL6J6)
+* **Cuadernillo en Google Colab:** [Abrir Cuadernillo Colab](https://colab.research.google.com/drive/1btRsUkeW5GOmnWE-hp0wX7QvDlHEKqW0?usp=sharing)
 * **Video Explicativo:** [Ver Video en Google Drive](https://drive.google.com/file/d/14FB8CWZNXQkCwwHRaO1Z7xbo3Epbs7HD/view?usp=sharing)
 * **Dataset:** [Descargar NumtaDB (CSV) en Google Drive](https://drive.google.com/file/d/1RZnY86UE7Dv0ZzzPefWUfbJlzy6LMuWi/view?usp=sharing)
 
