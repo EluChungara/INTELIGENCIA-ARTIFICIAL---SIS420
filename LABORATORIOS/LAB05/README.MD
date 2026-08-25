@@ -5,7 +5,7 @@
 
 ---
 
-##  Enlaces del Proyecto
+##  Enlaces del Laboratorio
 
 * **Cuadernillo en Google Colab:** [Abrir Cuadernillo Colab](https://colab.research.google.com/drive/1btRsUkeW5GOmnWE-hp0wX7QvDlHEKqW0?usp=sharing)
 * **Video Explicativo:** [Ver Video en Google Drive](https://drive.google.com/file/d/14FB8CWZNXQkCwwHRaO1Z7xbo3Epbs7HD/view?usp=sharing)
@@ -13,7 +13,7 @@
 
 ---
 
-## 📖Descripción del Trabajo Realizado
+## 📖Descripción del Lab
 
 En esta práctica se implementó un sistema de reconocimiento óptico y clasificación de dígitos manuscritos utilizando la estrategia multiclase **One-vs-All** basada en **Regresión Logística Regularizada** ($L_2$).
 
