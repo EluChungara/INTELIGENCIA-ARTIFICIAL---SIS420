@@ -1,4 +1,4 @@
-# Laboratorio 05: Clasificación Multiclase One-vs-All con Regresión Logística Regularizada
+# Laboratorio 05: Clasificación Multiclase One-vs-All 
 
 **Materia:** Inteligencia Artificial I (SIS-420)  
 **Docente:** Ing. Carlos Walter Pacheco Lora  
