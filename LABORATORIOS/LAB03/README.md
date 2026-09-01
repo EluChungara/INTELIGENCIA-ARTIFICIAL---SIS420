@@ -3,6 +3,7 @@
 **Materia:** Inteligencia Artificial I (SIS-420)  
 **Docente:** Ing. Carlos Walter Pacheco Lora  
 **Entorno:** Visual Studio Code (`.ipynb`)  
+** Nombre:** Chungara Choque Elizabeth
 
 ---
 
