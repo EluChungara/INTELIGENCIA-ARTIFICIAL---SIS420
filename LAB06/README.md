@@ -10,8 +10,7 @@
 ## 📌 Enlaces del Proyecto
 
 * **Video Explicativo:** [Ver Video de Defensa en Google Drive](https://drive.google.com/file/d/1buCLG3oTrPRYqYgWDrkVIvJnO7Ju0KqY/view?usp=sharing)
-* **Repositorio Principal:** [Enlace a la carpeta principal de tu GitHub]
-* **Cuadernillo Completo:** [Enlace a tu archivo .ipynb en GitHub o Google Colab]
+
 
 ---
 
