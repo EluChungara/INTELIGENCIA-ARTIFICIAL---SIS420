@@ -1,0 +1,6 @@
+Métrica,Valor
+Exactitud baseline,0.1
+Exactitud MLP,0.661
+Precisión macro,0.6660788776765565
+Recall macro,0.661
+F1 macro,0.6621605369695128
